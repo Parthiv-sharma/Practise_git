@@ -1,8 +1,3 @@
-This line means First commit
-This Line means Second Commit
-This line represents Third Commit
-This Line represents Fourth commit
-This line means Fifth Commit
-This line --> Sixth
-this line --> Seventh
-This line --> Eight
+Test-1
+Test-2
+Test-3
